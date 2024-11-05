@@ -8,5 +8,6 @@ return(
 <Text style={styles.texTitle}>Git Hub</Text>
 
 </View>
+   
 );
 }
